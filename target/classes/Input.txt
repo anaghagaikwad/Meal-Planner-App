@@ -1,0 +1,9 @@
+morning, 1, 2, 3
+morning, 2, 1, 3
+morning, 1, 2, 3, 4
+morning, 1, 2, 3, 3, 3
+morning, 1, 1, 2, 3, 4
+night, 1, 2, 3, 4
+night, 1, 2, 2, 4
+night, 1, 2, 3, 5
+night, 1, 1, 2, 3, 5
